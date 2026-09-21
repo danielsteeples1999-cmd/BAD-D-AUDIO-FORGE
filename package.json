@@ -1,0 +1,1 @@
+{"name":"bad-d-audio-forge","version":"0.1.0","private":true,"description":"Standalone BAD-D specialist audio experimentation lab","scripts":{"fixture":"node tools/generate-fixture.cjs","probe":"node tools/audio-probe.cjs","self-test":"node tools/self-test.cjs"}}
