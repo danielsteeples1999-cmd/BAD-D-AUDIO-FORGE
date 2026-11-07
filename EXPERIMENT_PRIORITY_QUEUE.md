@@ -22,7 +22,23 @@ Status: QUEUED
 - AUDIO-REGRESS-001 — reusable audio regression comparator
 - AUDIO-ADAPTER-001 — explicit production adapter contract
 
-## P2
+## P2 — MUSIC INTELLIGENCE
+Full executable definitions, acceptance criteria, dependencies, scoring, and result contract: [MUSIC_INTELLIGENCE_JOBS.md](MUSIC_INTELLIGENCE_JOBS.md)
+
+- MI-001 — Musical listening accuracy benchmark (foundation)
+- MI-002 — Rhythm, BPM and groove comprehension
+- MI-003 — Melody and harmony comprehension
+- MI-004 — Hook recognition and memorability
+- MI-005 — Lyric-to-melody compatibility
+- MI-006 — Vocal performance and phrasing assessment
+- MI-007 — Arrangement and dynamics comprehension
+- MI-008 — Production and mix assessment
+- MI-009 — Consistent song-rating calibration
+- MI-010 — Evidence-backed improvement and retest
+
+Execution rule: P0/P1 audio-engineering work remains ahead of this P2 ladder. MI-001 is the first music-intelligence job once the existing priority queue permits it and authorised fixtures are available. Do not create a second scheduler or duplicate fixture work.
+
+## P3 — EXISTING FUTURE CAPABILITIES
 - genre/transition compatibility
 - journey/set-flow analysis
 - preference learning
