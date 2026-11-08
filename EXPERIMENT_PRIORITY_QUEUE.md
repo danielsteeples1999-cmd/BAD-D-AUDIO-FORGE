@@ -12,6 +12,10 @@ Status: QUEUED
 Status: QUEUED
 
 ## P1
+### EAR-001 — Human-ear YES/NO listening prototype (unblocks perceptual evidence)
+Status: READY / ACTIVE IMPLEMENTATION — [Issue #6](https://github.com/danielsteeples1999-cmd/BAD-D-AUDIO-FORGE/issues/6)
+Gate: local-only Android playback; one question per clip; YES/NO only; blind prediction; test-the-test; independent review; export/retrieval proof. Prototype 1 first; source-vs-function and temporal journey prototypes follow behind its gates.
+
 - AUDIO-BPM-001 — BPM/timing validation
 - AUDIO-KEY-001 — key-estimation validation
 - AUDIO-PHRASE-001 — phrase/bar alignment
